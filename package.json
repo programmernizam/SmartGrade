@@ -1,6 +1,5 @@
 {
-  "name": "rnext-assignment-1",
-  "private": true,
+  "name": "smart-grade",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
